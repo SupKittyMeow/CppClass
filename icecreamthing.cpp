@@ -6,7 +6,7 @@ using namespace std;
 vector<string> ingredients;
 string newIngredient;
 
-int main() {
+int notMain() {
   while (true) {
     cout << "What would you like to add to your ice cream?" << endl
          << "Say 'done' when you are ready" << endl;
